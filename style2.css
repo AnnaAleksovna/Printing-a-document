@@ -1,0 +1,14 @@
+* { 
+	font-family: times new roman;
+	font-size: 14px;
+	color: black;
+	width: 600px;
+	margin: auto;
+}
+p.inf{
+	text-align: justify;
+}
+
+div.hide {
+	display: none;
+}
